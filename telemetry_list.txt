@@ -115,3 +115,4 @@
 0.0.0.0	diagnostics.support.microsoft.com
 0.0.0.0	spynet2.microsoft.com
 0.0.0.0	spynetalt.microsoft.com
+0.0.0.0 sftelemetry.sophos.com
