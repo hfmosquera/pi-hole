@@ -1,0 +1,18 @@
+<simple-ap-list>
+# 
+E8:39:35:F6:EA:00 "HERMES" 
+E8:39:35:F6:EA:01 "" 
+E8:39:35:F6:EA:10 "HERMES" 
+E8:39:35:F6:EA:11 "" 
+E8:39:35:F6:EA:12 "" 
+#
+38:EA:A7:82:F8:60 "HERMES" 
+38:EA:A7:82:F8:61 ""
+38:EA:A7:82:F8:70 "HERMES" 
+38:EA:A7:82:F8:71 "" 
+38:EA:A7:82:F8:72 "" 
+#
+00:24:A8:BA:EF:F0 "HERMES" 
+00:24:A8:BA:EF:F1 "" 
+00:24:A8:BA:EF:F2 "" 
+</simple-ap-list>
