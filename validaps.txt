@@ -15,4 +15,6 @@ E8:39:35:F6:EA:12 ""
 00:24:A8:BA:EF:F0 "HERMES" 
 00:24:A8:BA:EF:F1 "" 
 00:24:A8:BA:EF:F2 "" 
+#
+94:87:7C:7C:AE:70	"SHARKVIP"
 </simple-ap-list>
